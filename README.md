@@ -3,7 +3,6 @@ A chatbot is a computer program that understands the intent of your query to ans
 
 ## import nessery libraries
 `import os:` Imports the os module which provides a way of interacting with the operating system.
-
 `import nltk:` Imports the nltk library which provides natural language processing tools and resources.
 
 `import ssl:` Imports the ssl module which provides support for secure socket layer (SSL) and transport layer security (TLS) protocols.

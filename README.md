@@ -1,7 +1,8 @@
 # End-to-End-Chatbot
 A chatbot is a computer program that understands the intent of your query to answer with a solution. Chatbots are the most popular applications of Natural Language Processing in the industry.
 
-*`import os:`* Imports the os module which provides a way of interacting with the operating system.
+## import nessery libraries
+`import os:` Imports the os module which provides a way of interacting with the operating system.
 
 `import nltk:` Imports the nltk library which provides natural language processing tools and resources.
 

@@ -22,7 +22,12 @@ A chatbot is a computer program that understands the intent of your query to ans
 
 `nltk.download('punkt'):` Downloads the punkt tokenizer from the nltk library, which is used for tokenizing text into words.
 
-
+ ## Requirements
+* Environment (pick one)
+* VSCode + devcontainer: It has been configured in the .devcontainer folder and can be used directly
+* Docker
+* Python 3.10 or later (instructions: for Windows)
+* OpenAI API key
 
 
 
